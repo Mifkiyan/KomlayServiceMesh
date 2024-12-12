@@ -8,67 +8,67 @@ const doctorData = {
     "surgeon": [
         {
             "name": "Dr. Ava Sinclair",
-            "time": "3:15 AM",
+            "time": "14:15",
         },
         {
             "name": "Dr. Leo Montgomery",
-            "time": "10:00 AM",
+            "time": "10:00",
         },
         {
             "name": "Dr. Mia Carter",
-            "time": "04:15 AM",
+            "time": "04:15",
         },
         {
             "name": "Dr. Ethan Walker",
-            "time": "10:09 PM",
+            "time": "10:09",
         },
         {
             "name": "Dr. Lily Bennett",
-            "time": "6:58 AM",
+            "time": "06:58",
         }
     ],
     "dentist": [
         {
             "name": "Dr. Jack Harper",
-            "time": "11:34 PM",
+            "time": "15:34",
         },
         {
             "name": "Dr. Grace Turner",
-            "time": "04:17 AM",
+            "time": "04:17",
         },
         {
             "name": "Dr. Noah Parker",
-            "time": "08:15 AM",
+            "time": "08:15",
         },
         {
             "name": "Dr. Chloe Matthews",
-            "time": "02:19 PM",
+            "time": "14:19",
         },
         {
             "name": "Dr. Mason Reed",
-            "time": "09:52 AM",
+            "time": "09:52",
         }
     ],
     "neurosurgeon": [
         {
             "name": "Dr. Zoe Phillips",
-            "time": "01:25 AM",
+            "time": "01:25",
         },
         {
             "name": "Dr. Ryan Foster",
-            "time": "11:02 PM",
+            "time": "11:02",
         },
         {
             "name": "Dr. Ella Mitchell",
-            "time": "11:25 AM",
+            "time": "11:25",
         },
         {
             "name": "Dr. Lucas Gray",
-            "time": "02:14 PM",
+            "time": "02:14",
         },
         {
             "name": "Dr. Sophia Collins",
-            "time": "01:12 PM",
+            "time": "01:12",
         }
     ],
 }

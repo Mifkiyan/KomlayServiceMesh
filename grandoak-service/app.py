@@ -16,7 +16,7 @@ for type in doctorType:
     for _ in range(nData):
         data = {}
         data['name'] = fake.name()
-        data['time'] = fake.time()
+        data['time'] = fake.time('%H:%M')
         doctors.append(data)
 
     doctorList[type] = {
